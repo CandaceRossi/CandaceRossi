@@ -12,8 +12,8 @@ Hi I'm Candace! I'm a Full Stack Developer who enjoys building apps. I work with
   
 🌟|⭐Projects I've Completed/Working On: 
   - [Epic Painting & Powerwashing](https://epicbeta.netlify.app/)
-  - [Magpie Designs](https://netlify/magpiebeta.netlify.app/)
-  - [GoodGuys Carpet Cleaning](https://epicbeta.netlify.app/)
+  - [Magpie Designs](https://magpiebeta.netlify.app/)
+  - [GoodGuys Carpet Cleaning](https://goodguys.netlify.app/)
 
 👯 Projects I've Collaborate On ...
   - [Sauti Databank](https://sauti.now.sh/)
